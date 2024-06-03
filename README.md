@@ -45,15 +45,15 @@ coindex check price --coin <name of coin>
 
 type of coin:
 
-ripple
-bitcoin
-ethereum
-litecoin 
-binancecoin 
-stellar 
-dogecoin 
-solana 
-polygon 
+1.ripple
+2.bitcoin
+3.ethereum
+4.litecoin 
+5.binancecoin 
+6.stellar 
+7.dogecoin 
+8.solana 
+9.polygon 
 
 
 EX: 
@@ -67,16 +67,16 @@ coindex check price --curr <name of curr>
 
 type of currency:
 
-USD for United States Dollar
-EUR for Euro
-GBP for British Pound
-JPY for Japanese Yen
-AUD for Australian Dollar
-CAD for Canadian Dollar
-CHF for Swiss Franc
-CNY for Chinese Yuan
-INR for Indian Rupee
-RUB for Russian Ruble
+1.USD for United States Dollar
+2.EUR for Euro
+3.GBP for British Pound
+4.JPY for Japanese Yen
+5.AUD for Australian Dollar
+6.CAD for Canadian Dollar
+7.CHF for Swiss Franc
+8.CNY for Chinese Yuan
+9.INR for Indian Rupee
+10.RUB for Russian Ruble
 
 
 Ex: 
