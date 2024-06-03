@@ -56,8 +56,10 @@ type of coin:
 9. polygon 
 
 
+
 EX: 
 ![image](https://github.com/mOhmedelsaYd/ClI-project-/assets/114439989/2ba62bf9-8a8a-445e-a57f-87369f541feb)
+
 
 
 3-we can check the price of coin in difference currency using this command: 
@@ -67,16 +69,16 @@ coindex check price --curr <name of curr>
 
 type of currency:
 
-1.USD for United States Dollar
-2.EUR for Euro
-3.GBP for British Pound
-4.JPY for Japanese Yen
-5.AUD for Australian Dollar
-6.CAD for Canadian Dollar
-7.CHF for Swiss Franc
-8.CNY for Chinese Yuan
-9.INR for Indian Rupee
-10.RUB for Russian Ruble
+1. USD for United States Dollar
+2. EUR for Euro
+3. GBP for British Pound
+4. JPY for Japanese Yen
+5. AUD for Australian Dollar
+6. CAD for Canadian Dollar
+7. CHF for Swiss Franc
+8. CNY for Chinese Yuan
+9. INR for Indian Rupee
+10. RUB for Russian Ruble
 
 
 Ex: 
