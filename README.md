@@ -45,15 +45,15 @@ coindex check price --coin <name of coin>
 
 type of coin:
 
-1.ripple
-2.bitcoin
-3.ethereum
-4.litecoin 
-5.binancecoin 
-6.stellar 
-7.dogecoin 
-8.solana 
-9.polygon 
+1. ripple
+2. bitcoin
+3. ethereum
+4. litecoin 
+5. binancecoin 
+6. stellar 
+7. dogecoin 
+8. solana 
+9. polygon 
 
 
 EX: 
