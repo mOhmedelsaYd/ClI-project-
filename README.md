@@ -35,11 +35,11 @@ To delete your API key, use the following command:
 
 
 ### Check Price
-1-To check the price of coin, use the following command:
+A-To check the price of coin, use the following command:
 
 ![image](https://github.com/mOhmedelsaYd/ClI-project-/assets/114439989/7d2000e2-8031-41b0-b798-c4c6a0b3962d)
 
-2-we can add option to check a specific coin using this command : 
+B-we can add option to check a specific coin using this command : 
 
 coindex check price --coin <name of coin>   
 
@@ -57,16 +57,16 @@ type of coin:
 
 
 
-
-
 EX: 
+
+
 ![image](https://github.com/mOhmedelsaYd/ClI-project-/assets/114439989/2ba62bf9-8a8a-445e-a57f-87369f541feb)
 
 
 
 
 
-3-we can check the price of coin in difference currency using this command: 
+C-we can check the price of coin in difference currency using this command: 
 
 coindex check price --curr <name of curr>
 
@@ -90,8 +90,19 @@ Ex:
 ![image](https://github.com/mOhmedelsaYd/ClI-project-/assets/114439989/7b758edb-9a61-4e51-89c4-f9628c46fd46)
 
 
+D- We can use specific coin with specific currency using this command :
+
+coindex check price --coin <name of coin>  --curr <name of curr>
+
+Ex: 
+
+![image](https://github.com/mOhmedelsaYd/ClI-project-/assets/114439989/27feb41d-d94b-42d5-85a7-85b45d8ba318)
 
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
