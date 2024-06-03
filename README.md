@@ -13,6 +13,7 @@ Cryptocurrency CLI is a command-line interface tool for managing cryptocurrencie
 3. Add API Key :  coindex key set
 4. use this API KEY  =>       	CG-AqtDWUD4U8yRqE5MGYrUfzVu
 
+#### Note : without apiKey you can't check price 
 
 ## Features
 
