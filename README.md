@@ -10,9 +10,10 @@ Cryptocurrency CLI is a command-line interface tool for managing cryptocurrencie
 
 1. Clone this repository to your local machine using command :   git clone https://github.com/mOhmedelsaYd/ClI-project-
 2. Install dependencies using npm:
-    a. npm install
+
+    npm install
    
-    b. npm link
+    npm link
 4. Add API Key :  coindex key set
 5. use this API KEY  =>       	CG-AqtDWUD4U8yRqE5MGYrUfzVu
 
