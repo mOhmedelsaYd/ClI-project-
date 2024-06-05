@@ -15,7 +15,9 @@ Cryptocurrency CLI is a command-line interface tool for managing cryptocurrencie
    
     npm link
 4. Add API Key :  coindex key set
-5. use this API KEY  =>       	CG-AqtDWUD4U8yRqE5MGYrUfzVu
+5. use this API KEY  =>       	CG-AqtDWUD4U8yRqE5MGYrUfzVu              or    creat api key from  https://www.coingecko.com/en/developers/dashboard
+   ![image](https://github.com/mOhmedelsaYd/ClI-project-/assets/114439989/cc774552-dcc2-4981-8fc8-5cdc3d1b5b5c)
+
 
 #### Note : without apiKey you can't check price 
 
